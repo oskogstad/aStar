@@ -448,7 +448,7 @@ public class MapSearch implements ActionListener, MouseListener {
 	public void readFiles() throws Exception { 
 
 		// Read Node file and create all nodes. Nodes with name also goes in the nameLookup ArrayList
-		BufferedReader in = new BufferedReader(new FileReader("nodes"+inputRegion+".txt"));
+		BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream("nodes"+inputRegion+".txt"), StandardCharsets.UTF_8));
 		String currLine;
 
 		System.out.println("Starting node reading ...");
