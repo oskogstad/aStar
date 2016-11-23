@@ -12,6 +12,8 @@ Click "search"-button to ... search.
 
 Right click + drag to move the map.
 
+Map is from Open Streetmap: http://wiki.openstreetmap.org/wiki/JMapViewer
+
 ![Alt text](http://i.imgur.com/HM5n9IF.png "MapSearch")
 
 
