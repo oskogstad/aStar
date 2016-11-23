@@ -12,3 +12,6 @@ Click "search"-button to ... search.
 
 Right click + drag to move the map.
 
+![Alt text](http://i.imgur.com/HM5n9IF.png "MapSearch")
+
+
